@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @fi0naaa
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-fi0naaa/fi0naaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 hi，这里是@fi0naaa~
+- 网络安全一年级生（截至2021年）
+- 主攻漏洞挖掘、研究以及一些常用的攻击技战术（windows相关）
+- 2022年计划开始更新自己的github和公众号（好学的小刘同学），也算是给自己的工作和学习做一个总结梳理
